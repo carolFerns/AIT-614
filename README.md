@@ -5,10 +5,10 @@
 
 2. In the 'Code.R' file , mention the path of the raw data file while reading the file into a dataframe.
   #Read the file into a dataframe
-  tv <- read_csv("C:\\Users\\Caroline\\Documents\\3rdSem\\AIT614\\Project\\AIT614_CarolineFernandes_System\\data\\Traffic_Violations.csv")
+  tv <- read_csv("<path>")
 
 3.Once the preprocessing is done, the 'CleanData.csv' is outputted.Mention the path where you want this file to be saved.
-  write.csv(clean_data,"C:\\Users\\Caroline\\Documents\\3rdSem\\AIT614\\Project\\AIT614_CarolineFernandes_System\\data\\CleanData.csv",row.names=TRUE)
+  write.csv(clean_data,"<path>",row.names=TRUE)
 
 
 
