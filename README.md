@@ -1,5 +1,5 @@
 ## AIT-614
-#This repository contains the AIT 614 project
+### This repository contains the AIT 614 project
 
 1.'Traffic_Violations.csv' is the raw data file used for analysis.Save this file on your local machine and use the path at which this file is saved in the R code.
 
